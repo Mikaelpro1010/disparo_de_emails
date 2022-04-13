@@ -11,7 +11,7 @@ df_index = df.iloc[0].index
 
 #Configurando o e-mail e a senha do usuário
 email_address = 'mikaelantonio398@gmail.com'
-email_password = 'mikaelan100'
+email_password = '********'
 
 for i in range(len(df)):
     message = EmailMessage()
